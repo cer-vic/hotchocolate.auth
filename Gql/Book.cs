@@ -1,3 +1,5 @@
+using System;
+
 namespace Gql;
 
 public class Book
